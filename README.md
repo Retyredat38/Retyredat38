@@ -1,4 +1,4 @@
-# 👋 Hey, I’m **Adam Sparks** (Retyredat38)
+# 👋 Hey, I’m **Adam** (Retyredat38)
 
 🎯 Veteran | HR & Operations Strategist | Data & AI Practitioner  
 📊 I blend people, process, and analytics to drive smarter decisions.  
