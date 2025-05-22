@@ -1,46 +1,52 @@
-# 👋 Hey, I’m **Adam** (Retyredat38)
+# Hey, I’m **Adam** (Retyredat38)
 
-🎯 Veteran | HR & Operations Strategist | Data & AI Practitioner  
-📊 I blend people, process, and analytics to drive smarter decisions.  
-👨‍💻 Currently building a technical portfolio from the ground up.
+Veteran | Special Projects Manager | AI & Data Strategy  
+I work at the intersection of people, process, and technology — delivering cross-functional initiatives in HR, comms, compliance, and quality.  
+Currently building a technical portfolio from the ground up, with a focus on practical AI and automation.
 
 ---
 
-## 🔧 Featured Projects
+## Featured Projects
 
 - **[HR Attrition Analysis](https://github.com/Retyredat38/hr-attrition-analysis)**  
-  Visual analytics project using IBM HR dataset to explore why employees leave.  
-  Tools: Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook
+  Visual analytics project using IBM HR dataset to explore attrition patterns.  
+  Tools: Python, Pandas, Seaborn, Matplotlib
+
+- **[AI Crochet Pattern Generator](https://github.com/Retyredat38/crochet_pattern_generator)** *(Work in progress)*  
+  NLP-to-PDF pipeline that converts natural language prompts into formatted crochet patterns.  
+  Tools: Python, Flask, FPDF, spaCy
+
+- **[Program Tracker App](https://github.com/Retyredat38/flask_program_tracker)** *(Work in progress)*  
+  Flask-based internal tracking system built for a nonprofit, with role-based access, CSV import/export, and service audit logs.
 
 ---
 
-## 📚 Coursework & Certifications
+## Coursework & Certifications
 
 - Google Data Analytics Professional Certificate (180 hrs)  
 - AI Apprentice to AI Architect (Percipio)  
 - Data Analyst to Data Scientist (Percipio)  
-- Advanced Snowflake: Performance, Transformation, ML  
-- Prompt Engineering, NLP, Generative AI  
-- Microsoft 365 Fundamentals, Power BI (PL-300)
+- Prompt Engineering for Ethical Hacking (Percipio)  
+- Advanced Snowflake, Microsoft Power BI (PL-300)  
+- Data Security Posture Management (Securiti)
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
-`Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`  
-`SQL` `Snowflake` `Power BI` `VS Code`  
-`Git & GitHub` `Prompt Engineering` `Generative AI APIs`  
-`spaCy` `NLTK` `AWS` `Azure` `GCP`
-
----
-
-## 🧭 Current Focus
-
-- 🧠 Machine Learning (regression, classification, clustering)
-- 🗂️ NLP projects (resume parsing, job description matching)
-- 🧊 Snowflake data warehousing & pipelines
-- 🔄 Process improvement through AI and automation
+`Python` `Pandas` `Matplotlib` `Seaborn` `SQL` `Snowflake`  
+`Flask` `FPDF` `Power BI` `Jupyter` `Git & GitHub`  
+`Prompt Engineering` `NLP (spaCy, NLTK)` `Azure` `GCP`  
 
 ---
 
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/adam-b-sparks/)
+## Current Focus
+
+- Machine learning (regression, classification, clustering)
+- NLP projects (resume parsing, job description matching)
+- Flask-based app dev for process automation
+- Practical GenAI integrations in data workflows
+
+---
+
+Connect on [LinkedIn](https://www.linkedin.com/in/adam-b-sparks/)
