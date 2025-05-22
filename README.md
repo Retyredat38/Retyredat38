@@ -30,14 +30,11 @@ Currently building a technical portfolio from the ground up, with a focus on pra
 - Advanced Snowflake, Microsoft Power BI (PL-300)  
 - Data Security Posture Management (Securiti)
 
-## Certifications From
+## Highlighted Certifications
 
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/intl/en_us/certificates/)
-[![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
-[![Percipio](https://img.shields.io/badge/Percipio-00AEEF?style=for-the-badge&logo=skillsoft&logoColor=white)](https://www.skillsoft.com/platform/percipio)
-[![Securiti](https://img.shields.io/badge/Securiti-1A202C?style=for-the-badge&logo=databricks&logoColor=white)](https://securiti.ai/)
 ![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-180hrs-blue?style=flat-square&logo=google)
-![AI Architect (Percipio)](https://img.shields.io/badge/AI_Architect-Percipio-blueviolet?style=flat-square)
+![ML Architect (Percipio)](https://img.shields.io/badge/ML_Architect-Percipio-purple?style=flat-square&logo=skillsoft)
+![AI Architect (Percipio)](https://img.shields.io/badge/AI_Architect-Percipio-blueviolet?style=flat-square&logo=skillsoft)
 ![Power BI Certified](https://img.shields.io/badge/Power_BI-MSPL300-yellow?style=flat-square&logo=powerbi)
 ![Data Security Posture Management](https://img.shields.io/badge/DSPM-Securiti-green?style=flat-square)
 
